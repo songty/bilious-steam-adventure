@@ -1,0 +1,21 @@
+{
+  "name": "bilious-steam-adventure",
+  "version": "0.1.0",
+  "description": "",
+  "main": "steam.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songty/bilious-steam-adventure.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songty/bilious-steam-adventure/issues"
+  },
+  "homepage": "https://github.com/songty/bilious-steam-adventure#readme",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "lodash": "^3.10.1",
+    "request": "^2.65.0"
+  }
+}
